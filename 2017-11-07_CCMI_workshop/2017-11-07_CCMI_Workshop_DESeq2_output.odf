@@ -1,0 +1,20 @@
+ODF 1.0
+HeaderLines=18
+COLUMN_NAMES:
+COLUMN_TYPES:String	String	double	String
+Model=Comparative Marker Selection
+Dataset File=Name of file
+Class File=cls_name
+Permutations=n_perm
+Class 0=BRCA
+Class 1=Normal
+Test Statistic=str(function_to_call)
+pi0=
+lambda=
+pi0(lambda)=
+cubic spline(lambda)=
+Random Seed=000
+Smooth p-values=
+DataLines=2*TOP
+RowNamesColumn=0
+RowDescriptionsColumn=1
